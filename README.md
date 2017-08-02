@@ -2,5 +2,5 @@
 Learning how to write html and css
 
 <div>
-  Link to webpage https://vtblackbelt.github.io/learning_htmlcss/
+  <a href="https://vtblackbelt.github.io/learning_htmlcss/" title="Link to test page">Test page</a>
 </div>
